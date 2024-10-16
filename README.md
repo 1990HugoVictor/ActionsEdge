@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="actions_edge.ico" alt="Ícone" width="128" height="128">
 </p>
 
