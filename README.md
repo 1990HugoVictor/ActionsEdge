@@ -2,9 +2,12 @@
   <img src="actions_edge.ico" alt="Ícone" width="128" height="128">
 </p>
 
-[![Versão](https://img.shields.io/badge/Versão-1.0.0-blue.svg)](https://github.com/seu-usuario/seu-repositorio)
+[![Version](https://img.shields.io/badge/Versão-1.0.0-blue.svg)](https://github.com/seu-usuario/seu-repositorio)
 [![GitHub Issues](https://img.shields.io/github/issues/1990HugoVictor/ActionsEdge)](https://github.com/1990HugoVictor/ActionsEdge/issues)
 [![License](https://img.shields.io/github/license/1990HugoVictor/ActionsEdge)](./LICENSE)
+[![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)](https://github.com/1990HugoVictor/ActionsEdge)
+[![Test Status](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/1990HugoVictor/ActionsEdge/actions)
+[![Contributors](https://img.shields.io/github/contributors/1990HugoVictor/ActionsEdge.svg)](https://github.com/1990HugoVictor/ActionsEdge/graphs/contributors)
 
 # Actions Edge  
 
