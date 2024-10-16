@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="actions_edge.ico" alt="Ícone" width="128" height="128">
+</p>
+
+[![Versão](https://img.shields.io/badge/Versão-1.0.0-blue.svg)](https://github.com/seu-usuario/seu-repositorio)
+[![GitHub Issues](https://img.shields.io/github/issues/1990HugoVictor/ActionsEdge)](https://github.com/1990HugoVictor/ActionsEdge/issues)
+[![License](https://img.shields.io/github/license/1990HugoVictor/ActionsEdge)](./LICENSE)
+
 # Actions Edge  
 
 Actions Edge is a tool that optimizes navigation in Windows by allowing quick access to Task View when the mouse moves to the upper-left corner of the screen. It is designed to enhance workflow efficiency by providing a seamless way to manage open applications and desktops.  
